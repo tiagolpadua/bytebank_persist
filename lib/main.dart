@@ -1,8 +1,6 @@
 import 'package:bytebank_persist/screens/dashboard.dart';
 import 'package:flutter/material.dart';
 
-import 'database/app_database.dart';
-
 void main() {
   runApp(BytebankApp());
 }
